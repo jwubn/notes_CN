@@ -1,4 +1,5 @@
-# Taiwan stock market equities
+# Taiwan Stock Market Equities
 
-The backtest system is programmed by my friend, Gao Chang. 
-I am responsible for strategies development and backtesting system code review.
+The backtesting system framework is programmed by GAO Chang, my co-worker in the project. I am responsible for any errors.
+<br />
+The core ideas of the backtesting system is that using the signals generated from strategies function to implement intra-day trading, i.e., clear all the positions every day before market closes.
